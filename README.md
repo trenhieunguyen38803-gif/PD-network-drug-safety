@@ -17,3 +17,7 @@ R packages: `data.table`, `brglm2`
 ## Data
 
 This repository contains analysis code only. Source pharmacovigilance data are not redistributed here.
+
+## Citation
+
+Version 1.0.0 is archived on Zenodo: https://doi.org/10.5281/zenodo.21935958
